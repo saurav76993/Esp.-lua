@@ -1,4 +1,4 @@
--- Placethis LocalScript in StarterPlayerScripts
+-- Place this LocalScript in StarterPlayerScripts
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
